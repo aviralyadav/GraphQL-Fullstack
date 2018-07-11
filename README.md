@@ -1,2 +1,4 @@
-# Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+# GraphQL FullStack
+Backend with FrontEnd in GraphQL
+Download and do npm install
+run command npm run dev to run the project
